@@ -1,1 +1,1 @@
-https://github.com/dubIicate/ono_tebe_nado
+https://github.com/dubIicate/ono_tebe_nado-fd
